@@ -4,4 +4,4 @@ if(num<0):
 elif(num>0):
     print("positive value")
 else:
-    print("zero")
+    print("invalid input")
